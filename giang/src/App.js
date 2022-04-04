@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react';
-import TodoList from './components/TodoList'
-import Header from './components/Header'
-import Footer from './components/Footer'
+import TodoList from './compoment/TodoList'
+import Header from './compoment/Header'
+import Footer from './compoment/Footer'
 
 import './css/Style.css'
 
